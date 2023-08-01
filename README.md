@@ -21,7 +21,8 @@ There are two ways this can be done:
 Two metrics were used to evaluate the model, [MSE](https://en.wikipedia.org/wiki/Mean_squared_error) and [SSIM](https://en.wikipedia.org/wiki/Structural_similarity) (Structural Similarity).
 SSIM is a more human centered metric since there can be image distortions which are not clearly visible and therefore don't impact the overall frame similarity to the reference.
 
-![image](https://github.com/bharathsivaram10/Video-Prediction/assets/20588623/9e764b7e-7714-4a07-9dbe-4c9e0b3145f5)
+![image](https://github.com/bharathsivaram10/Video-Prediction/assets/20588623/1e647e82-d44e-44ac-b7b7-93b4a3c34891)
+
 
 
 ## How to Run
