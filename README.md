@@ -35,7 +35,8 @@ SSIM is a more human centered metric since there can be image distortions which 
 ## Contributions
 
 Utility functions (Encoder/Decoder, activations, ConvLSTM) provided by Dr.Yao-Yi Chiang.
-Remaning code by Bharath Sivaram
+
+Remaining code by Bharath Sivaram
 
 
 
