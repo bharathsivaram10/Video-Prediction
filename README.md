@@ -32,6 +32,11 @@ SSIM is a more human centered metric since there can be image distortions which 
 3) To run training: python train.py --data_source sst --seq_len 4 --horizon 6
 4) To run testing: python test.py --model_name MODEL_NAME --data_source sst --seq_len 4 --horizon 6
 
+## Contributions
+
+Utility functions (Encoder/Decoder, activations, ConvLSTM) provided by Dr.Yao-Yi Chiang.
+Remaning code by Bharath Sivaram
+
 
 
 
